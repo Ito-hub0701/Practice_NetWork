@@ -1,3 +1,5 @@
+//create by ito 2026/10/30
+
 var cc; // canvas context
 var flag = false;
 var oldX, oldY; 
